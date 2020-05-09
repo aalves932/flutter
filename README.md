@@ -1,2 +1,10 @@
-<h1>Estudo de Flutter & Dart</h1>
+Estudo de Flutter & Dart
+========================
+
+Introdução
+----------
+
+Este estudo tem como base o curso da Udemy 
+
+[Flutter e Dart - Aprenda e Construa APP iOS e Android 2020](https://www.udemy.com/course/curso-flutter/)
 
